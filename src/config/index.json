@@ -1,0 +1,148 @@
+{
+  "company": {
+    "name": "mann kare",
+    "logo": "/assets/images/newLogoMannkare.svg"
+  },
+  "navigation": [
+    { "name": "What's In Store", "href": "product" },
+    { "name": "Who We Are", "href": "features" },
+    { "name": "Contact Us", "href": "about" }
+  ],
+  "callToAction": {
+    "text": "mann kare",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "What to Buy?",
+    "subtitle": "Jo mann kare.",
+    "description": "Discover the ultimate fashion destination for trendsetters. Shop the latest designs from top brands and independent creators.",
+    "img": "/assets/images/banner3.png",
+    "primaryAction": {
+      "text": "Google Play",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "App Store",
+      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+    }
+  },
+  "product": {
+    "title": "What's In Store?",
+    "items": [
+      {
+        "title": "Sign In & Set Up",
+        "description": "Create your profile to personalize your shopping experience and keep track of your favorites.",
+        "img": "/assets/images/signin.png"
+      },
+      {
+        "title": "Shop at Your Pace",
+        "description": "Add to Favorites and check out when you're ready. No pressure.",
+        "img": "/assets/images/p1.png"
+      },
+      {
+        "title": "List, Sell & Earn",
+        "description": "Join our seller community and earn by showcasing your unique fashion pieces to a wider audience.",
+        "img": "/assets/images/P3.png"
+      },
+      {
+        "title": "Like, Follow & Buy",
+        "description": "Engage with brands, follow your favorites, and shop seamlessly with a social twist.",
+        "img": "/assets/images/P2.png"
+      }
+    ]
+  },
+  "features": {
+    "title": "Who We Are",
+    "subtitle": "Making Fashion Accessible Without Breaking the Bank.",
+    "description": "We're a fast-fashion platform offering affordable styles for everyone. Our marketplace is personalized, user-friendly, and connects you with fresh trends from verified brands and designers. Join us in discovering fashion that's affordable, ethical, and empowering.",
+    "items": [
+      {
+        "name": "Convenience",
+        "description": "Shop online from your favorite fashion brands—all in one place.",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "Accessibility",
+        "description": "Access hidden gems and emerging designers that you won’t find anywhere else.",
+        "icon": "/assets/images/tailwindcss.svg"
+      },
+      {
+        "name": "Risk Reduction",
+        "description": "Enjoy safe, secure shopping with extra layers of trust and transparency.",
+        "icon": "/assets/images/nextjs.svg"
+      },
+      {
+        "name": "Brand Verification",
+        "description": "We thoroughly vet our partners to ensure quality, ethics, and originality.",
+        "icon": "/assets/images/ts.png"
+      },
+      {
+        "name": "Customer Support",
+        "description": "We're here to help—before, during, and after your purchase.",
+        "icon": "/assets/images/nextjs.svg"
+      },
+      {
+        "name": "Collaboration & Growth",
+        "description": "We partner with fashion innovators to fuel growth and creativity in the industry.",
+        "icon": "/assets/images/nextjs.svg"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing",
+    "items": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "priceDetails": "One user",
+        "features": ["1 user", "Basic support", "1 GB storage", "Email support"]
+      },
+      {
+        "name": "Pro",
+        "price": "$15",
+        "priceDetails": "Per user",
+        "features": [
+          "5 users",
+          "Priority support",
+          "10 GB storage",
+          "Phone & email support"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "$29",
+        "priceDetails": "Per user",
+        "features": [
+          "50 users",
+          "24/7 support",
+          "100 GB storage",
+          "Phone & email support"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "mann kare",
+        "href": "#",
+        "content": "mann kare is a curated fashion marketplace where design meets accessibility. Built to empower both creators and consumers, we bring the best of fashion to your fingertips."
+      },
+      {
+        "name": "What's In Store",
+        "href": "#",
+        "content": "From trendsetting outfits to affordable everyday wear, our store is your one-stop fashion destination."
+      },
+      {
+        "name": "Who We Are",
+        "href": "#",
+        "content": "We’re a passionate team of creators, developers, and fashion lovers committed to reshaping the way people discover and shop for fashion."
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/issaafalkattan",
+      "twitter": "https://twitter.com/issaafkattan",
+      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+    }
+  }
+}
